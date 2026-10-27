@@ -17,3 +17,14 @@
 
 1. 숫자1
 2. 숫자2
+
+---
+
+# 23026-10-27 TIL Git / Github
+
+## 오늘 Git 명령어
+
+```sh
+git init
+git config --list
+```
