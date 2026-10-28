@@ -24,7 +24,7 @@
 
 ## 오늘 Git 명령어
 
-```sh
+```md
 git init
 git config --list
 ```
